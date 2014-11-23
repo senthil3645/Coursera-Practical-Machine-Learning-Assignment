@@ -1,2 +1,2 @@
-Coursera-Predictive-Machine-Learning-Assignment
+Coursera-Practical-Machine-Learning-Assignment
 ===============================================
